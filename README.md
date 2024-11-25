@@ -1,3 +1,3 @@
- run project on your local machine,
+ run project on your local machine using wsl for windows,
 
 python manage.py runserver
